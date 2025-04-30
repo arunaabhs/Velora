@@ -22,7 +22,7 @@
 
 <!-- Add your screenshots in an `assets/` folder -->
 ![Home Page](./assets/homepage.png)
-![Product Page](./assets/product-page.png)
+![Product Page](./assets/products_page.png)
 ![Cart Page](./assets/cart.png)
 
 ## 📦 Installation
@@ -63,7 +63,7 @@ velora/
 
 ## ✍️ Author
 
-- [Your Name](https://github.com/yourusername)
+- [Arunaabh Shriyam](https://github.com/yourusername)
 
 ## 📃 License
 
