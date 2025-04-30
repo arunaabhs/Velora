@@ -21,9 +21,9 @@
 ## 📸 Screenshots
 
 <!-- Add your screenshots in an `assets/` folder -->
-![Home Page](./assets/homepage.png)
-![Product Page](./assets/products_page.png)
-![Cart Page](./assets/cart.png)
+![Home Page](./assets/images/homepage.png)
+![Product Page](./assets/images/products_page.png)
+![Cart Page](./assets/images/cart.png)
 
 ## 📦 Installation
 
