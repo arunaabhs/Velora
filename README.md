@@ -1,6 +1,6 @@
 # ⚡ Velora — Modern eCommerce Web App 🛍️
 
-**Velora** is a sleek, high-performance eCommerce platform built with **React.js**, **Tailwind CSS**, and **Redux Toolkit**. Designed with a mobile-first approach, Velora delivers a seamless shopping experience with intuitive navigation, clean UI, and robust state management.
+**Velora** is a sleek, high-performance eCommerce platform built with **React.js**, **Tailwind CSS**, and **Redux Toolkit**. Designed with a website-first approach, Velora delivers a seamless shopping experience with intuitive navigation, clean UI, and robust state management.
 
 ---
 
